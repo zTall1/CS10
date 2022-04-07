@@ -1,7 +1,7 @@
-package Excercises;
+package Assignments;
 /*
 
-Program: ${FromMeToYou}.java          Date: ${April 5, 2022}
+Program: ${Assignment1}.java          Date: ${April 5, 2022}
 
 
 Author: Isaac Daodu
@@ -9,7 +9,8 @@ School: CHHS
 Course: Computer Science 10
  
 */
-public class FromMeToYou 
+
+public class Assignment1 
 {
 
 	public static void main(String[] args) 
@@ -26,19 +27,20 @@ public class FromMeToYou
 				+ "     \r\n"
 				+ "  Help! I'm trapped inside a computer!");
 
+
 	}
 	/* Screen Dump
-  From: Mr. Wilson
-         
-  Address: Acer Computer, Lab 314
-         
-  Date: November 2, 2020     
-     
+	  From: Mr. Wilson
+	         
+	  Address: Acer Computer, Lab 314
+	         
+	  Date: November 2, 2020     
+	     
 
-  To: Isaac Daodu
-     
-     
-  Help! I'm trapped inside a computer!
-	 */
-
+	  To: Isaac Daodu
+	     
+	     
+	  Help! I'm trapped inside a computer!
+		 */
+	
 }
