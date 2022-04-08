@@ -29,6 +29,9 @@ public class Assignment1
 
 
 	}
+
+	
+}
 	/* Screen Dump
 	  From: Mr. Wilson
 	         
@@ -42,5 +45,3 @@ public class Assignment1
 	     
 	  Help! I'm trapped inside a computer!
 		 */
-	
-}

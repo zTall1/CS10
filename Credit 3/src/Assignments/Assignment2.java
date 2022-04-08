@@ -35,6 +35,8 @@ public class Assignment2
 		+"   ------    -----");	
 
 	}
+
+}
 	/* Screen Dump
 
 	|   |        -------
@@ -57,4 +59,3 @@ public class Assignment2
 	   ------    -----
 
 		 */
-}

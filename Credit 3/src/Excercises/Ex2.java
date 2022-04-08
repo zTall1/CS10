@@ -21,10 +21,10 @@ public class Ex2
 		 */	
 	}
 
+
+}
+
 /* Screen Dump
 
 
-
-	 
 	 */
-}

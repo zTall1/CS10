@@ -23,7 +23,9 @@ public class Assignment3
 		+" 51      49      70      63      11");
 
 	}
-	/* Screen Dump
+	
+}
+/* Screen Dump
 	  B       I       N       G       O 
 	  4       9      32      25      41 
 	  3       8      13       7      72 
@@ -32,4 +34,3 @@ public class Assignment3
 	 51      49      70      63      11
 
 	*/
-}
