@@ -1,7 +1,7 @@
 package Excercises;
 /*
 
-Program: ${VariEx2}.java          Date: ${April 8, 2022}
+Program: ${DataTypeEx3}.java          Date: ${April 11, 2022}
 
 
 Author: Isaac Daodu
@@ -9,12 +9,15 @@ School: CHHS
 Course: Computer Science 10
  
 */
-public class VariEx2 
+public class DataTypeEx3 
 {
 
 	public static void main(String[] args) 
 	{
-		int maxSpeed = 120;
+		double myDouble = 9.78d;
+		int myInt = (int) myDouble;
+	
+
 	}
 
 }
