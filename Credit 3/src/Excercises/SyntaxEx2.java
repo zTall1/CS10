@@ -9,7 +9,7 @@ School: CHHS
 Course: Computer Science 10
  
 */
-public class Ex2 
+public class SyntaxEx2 
 {
 
 	public static void main(String[] args) 
