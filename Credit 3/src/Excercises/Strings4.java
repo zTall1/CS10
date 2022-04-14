@@ -23,5 +23,4 @@ public class Strings4
 }
 /* Screen Dump
 John Doe
-
  */
