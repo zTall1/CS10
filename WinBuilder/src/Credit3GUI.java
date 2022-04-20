@@ -89,7 +89,7 @@ public class Credit3GUI {
 				String LN = lnn.getText();
 			}
 		});
-		SB.setBounds(138, 192, 89, 23);
+		SB.setBounds(128, 200, 89, 23);
 		panel.add(SB);
 		
 		JButton RS = new JButton("Reset");

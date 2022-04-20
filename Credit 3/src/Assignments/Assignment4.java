@@ -30,5 +30,6 @@ public class Assignment4
 
 }
 /* Screen Dump
-Diameter of the pizza in inches:
+Diameter of the pizza in inches: 19
+The cost of your pizza is: $19.8
  */
