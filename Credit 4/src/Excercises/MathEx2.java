@@ -16,7 +16,6 @@ public class MathEx2
 	{
 		int x = 16;
 		Math.sqrt(x);
-	
 	}
 
 }
