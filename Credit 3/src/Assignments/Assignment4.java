@@ -20,9 +20,9 @@ public class Assignment4
 		Scanner input = new Scanner(System.in);
 		
 		System.out.print("Diameter of the pizza in inches:");
-		int red = input.nextInt();
+		int diameter = input.nextInt();
 		
-		double darkRed = ((0.05*red*red)+0.75+1);
+		double darkRed = (0.05*diameter*diameter)+0.75+1;
 		System.out.print("The cost of your pizza is: $" + darkRed);
 		
 
