@@ -1,9 +1,16 @@
 package Assignments;
 
-public class Assignment6 {
+import java.util.Scanner;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class Assignment6 
+{
+
+	public static void main(String[] args) 
+	{
+		Scanner input = new Scanner(System.in);
+		System.out.println("What is your first name?");
+		String FN = input.nextLine();
+
 
 	}
 
