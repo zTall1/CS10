@@ -15,24 +15,24 @@ public class Assignment2
 	public static void main(String[] args) 
 	{
 		System.out.println
-		(" -------    --------   \r\n"
-		+"    |        |      | \r\n"
-		+"    |        |      | \r\n"
-		+"    |        |      /  \r\n"
-		+" ------- o  -------  o  \r\n"
-		+"    \r\n"
-		+"    \r\n"
-		+"    \r\n"
-		+"    \r\n"
-	    +"  ------     -----\r\n"
-		+"   |         |\r\n"
-		+"   |         |\r\n"
-		+"   |         |\r\n"
-		+"   |         -----\r\n"
-		+"   |             |\r\n"
-		+"   |             |\r\n"
-		+"   |             |\r\n"
-		+"   ------    -----");	
+		(" -------    --------   \r\n" //prints these symbols
+		+"    |        |      | \r\n" //prints these symbols
+		+"    |        |      | \r\n" //prints these symbols
+		+"    |        |      /  \r\n" //prints these symbols
+		+" ------- o  -------  o  \r\n" //prints these symbols
+		+"    \r\n" //creates a space
+		+"    \r\n" //creates a space
+		+"    \r\n" //creates a space
+		+"    \r\n" //creates a space
+	    +"  ------     -----\r\n" //prints these symbols
+		+"   |         |\r\n" //prints these symbols
+		+"   |         |\r\n" //prints these symbols
+		+"   |         |\r\n" //prints these symbols
+		+"   |         -----\r\n" //prints these symbols
+		+"   |             |\r\n" //prints these symbols
+		+"   |             |\r\n" //prints these symbols
+		+"   |             |\r\n" //prints these symbols
+		+"   ------    -----");	 //prints these symbols
 
 	}
 
