@@ -1,7 +1,7 @@
 package Excercises;
 /*
 
-Program: ${Ex2}.java          Date: ${April 4, 2022}
+Program: ${SyntaxEx2}.java          Date: ${April 4, 2022}
 
 
 Author: Isaac Daodu
