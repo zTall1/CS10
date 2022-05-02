@@ -11,7 +11,7 @@ Course: Computer Science 10
 */
 import java.util.Scanner;
 
-public class Assignment9 
+public class DivAndMod 
 {
 
 	public static void main(String[] args) 
