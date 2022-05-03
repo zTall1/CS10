@@ -33,22 +33,33 @@ public class Assignment11
 		} 
 		else 
 		{
-			System.out.println("The largest of the three digits is: " + dig3); //if both conditions are false it prints The largest of the three digits is: and
+			System.out.println("The largest of the three digits is: " + dig3); // if both conditions are false it prints The largest of the three digits is: and dig3
 		}
-		if (dig1 < dig2 && dig1 < dig3) 
+		if (dig1 < dig2 && dig1 < dig3)  //creates a condition
 		{
-			System.out.println("The smallest of the three digits is: " + dig1);
+			System.out.println("The smallest of the three digits is: " + dig1); // if the condition is true it prints The smallest of the three digits is: and dig1
 		}
-		else if (dig2 < dig1 && dig2 < dig3) 
+		else if (dig2 < dig1 && dig2 < dig3) //creates a new condition
 		{
-			System.out.println("The smallest of the three digits is: " + dig2);
+			System.out.println("The smallest of the three digits is: " + dig2); // if the condition is true it prints The smallest of the three digits is:  and dig2
 		}
 		else
 		{
-			System.out.println("The smallest of the three digits is: " + dig3);
+			System.out.println("The smallest of the three digits is: " + dig3); // if both conditions are false it prints The smallest of the three digits is: and dig3
 		}
-		System.out.println("The sum of the three digits is: " + (dig1 + dig2 + dig3));
-		System.out.println("The product of the three digits is: " + (dig1 * dig2 * dig3));
-		System.out.println("The average of the three digits is: " + (dig1 + dig2 + dig3) / 3);
+		System.out.println("The sum of the three digits is: " + (dig1 + dig2 + dig3)); //prints the sum of dig1, dig2, & dig3
+		System.out.println("The product of the three digits is: " + (dig1 * dig2 * dig3)); //prints the product of dig1, dig2, & dig3
+		System.out.println("The average of the three digits is: " + (dig1 + dig2 + dig3) / 3); //prints the mean of dig1, dig2, & dig3
 	}
 }
+/* Screen Dump
+Enter any three digit number:
+123
+The largest of the three digits is: 3
+The smallest of the three digits is: 1
+The sum of the three digits is: 6
+The product of the three digits is: 6
+The average of the three digits is: 2
+
+
+	 */
