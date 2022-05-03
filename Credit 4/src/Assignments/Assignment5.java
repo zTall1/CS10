@@ -1,4 +1,3 @@
-package Assignments;
 /*
 
 Program: ${Assignment5}.java          Date: ${April 20, 2022}
@@ -9,6 +8,8 @@ School: CHHS
 Course: Computer Science 10
  
 */
+package Assignments;
+
 public class Assignment5 
 {
 

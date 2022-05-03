@@ -1,4 +1,3 @@
-package Assignments;
 /*
 
 Program: ${Assignment7}.java          Date: ${April 27, 2022}
@@ -9,6 +8,8 @@ School: CHHS
 Course: Computer Science 10
  
 */
+package Assignments;
+
 import java.util.Scanner;
 
 public class Assignment7 
