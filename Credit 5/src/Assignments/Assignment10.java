@@ -1,7 +1,7 @@
 package Assignments;
 /*
 
-Program: ${EvenOrOdd}.java          Date: ${May 2, 2022}
+Program: ${Assignment10}.java          Date: ${May 2, 2022}
 
 
 Author: Isaac Daodu
@@ -11,7 +11,7 @@ Course: Computer Science 10
 */
 import java.util.Scanner;
 
-public class EvenOrOdd 
+public class Assignment10 
 {
 
 	public static void main(String[] args) 
