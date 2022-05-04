@@ -47,7 +47,10 @@ public class Assignment11
 		else
 		{
 			System.out.println("The smallest of the three digits is: " + dig3); // if both conditions are false it prints The smallest of the three digits is: and dig3
-		}System.out.println(" ");
+		}
+		
+		System.out.println(" ");
+		
 		System.out.println("The sum of the three digits is: " + (dig1 + dig2 + dig3) //prints the sum of dig1, dig2, & dig3
 				+ "  \r\n"
 				+ "   \r\n"
