@@ -25,28 +25,28 @@ public class Assignment11
 		int dig3 = number%100%10; //saves a variable = number%100%10
 		if (dig1 > dig2 && dig1 > dig3) //creates a condition
 		{
-			System.out.println("The largest of the three digits is: " + dig1); // if the condition is true it prints The largest of the three digits is: and dig1
+			System.out.println("The largest of the three digits is: " + dig1); // if the condition is true it prints, The largest of the three digits is: and dig1
 		}
 		else if (dig2 > dig1 && dig2 > dig3) //creates a new condition
 		{
-			System.out.println("The largest of the three digits is: " + dig2); // if the condition is true it prints The largest of the three digits is:  and dig2
+			System.out.println("The largest of the three digits is: " + dig2); // if the condition is true it prints, The largest of the three digits is:  and dig2
 		} 
 		else 
 		{
-			System.out.println("The largest of the three digits is: " + dig3); // if both conditions are false it prints The largest of the three digits is: and dig3
+			System.out.println("The largest of the three digits is: " + dig3); // if both conditions are false it prints, The largest of the three digits is: and dig3
 		}
 		System.out.println(" ");
 		if (dig1 < dig2 && dig1 < dig3)  //creates a condition
 		{
-			System.out.println("The smallest of the three digits is: " + dig1); // if the condition is true it prints The smallest of the three digits is: and dig1
+			System.out.println("The smallest of the three digits is: " + dig1); // if the condition is true it prints, The smallest of the three digits is: and dig1
 		}
 		else if (dig2 < dig1 && dig2 < dig3) //creates a new condition
 		{
-			System.out.println("The smallest of the three digits is: " + dig2); // if the condition is true it prints The smallest of the three digits is:  and dig2
+			System.out.println("The smallest of the three digits is: " + dig2); // if the condition is true it prints, The smallest of the three digits is:  and dig2
 		}
 		else
 		{
-			System.out.println("The smallest of the three digits is: " + dig3); // if both conditions are false it prints The smallest of the three digits is: and dig3
+			System.out.println("The smallest of the three digits is: " + dig3); // if both conditions are false it prints, The smallest of the three digits is: and dig3
 		}
 		
 		System.out.println(" ");
