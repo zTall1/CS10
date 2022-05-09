@@ -54,7 +54,7 @@ public class Assignment12
 		{
 			System.out.println("Your grade is D");  //prints Your grade is D, if the condition is true
 		}
-		else if (grade < 50)  //creates a new condition
+		else  //creates a new condition
 		{
 			System.out.println("Your grade is F");  //prints Your grade is F, if the condition is true
 		}
