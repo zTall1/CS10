@@ -17,7 +17,7 @@ public class Assignment12
 {
 
 	public static void main(String[] args) 
-	{
+	{//
 		Scanner input = new Scanner(System.in); //allows the program to scan and save user input
 		System.out.println("Enter a grade perentage: "); //prints Enter a grade perentage: 
 		int grade = input.nextInt(); //saves a variable for the user input
