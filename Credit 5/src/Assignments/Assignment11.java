@@ -67,7 +67,7 @@ The largest of the three digits is: 3
  
 The smallest of the three digits is: 1
  
-The sum of the three digits is: 6  
+The sum of the three digits is: 60  
    
 The product of the three digits is: 6   
    
