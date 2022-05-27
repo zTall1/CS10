@@ -46,10 +46,8 @@ public class Assignment14
 
 }
 /* Screen Dump
-Enter a grade perentage: 
-100
- 
-Your grade is A+
-
+Please enter your age: 
+16
+You are a teen
 
 	 */

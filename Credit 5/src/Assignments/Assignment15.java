@@ -1,3 +1,13 @@
+/*
+
+Program: ${Assignment14}.java          Date: ${May 18, 2022}
+
+
+Author: Isaac Daodu
+School: CHHS
+Course: Computer Science 10
+ 
+*/
 package Assignments;
 
 import java.util.Scanner;
@@ -28,3 +38,9 @@ public class Assignment15
 	}
 
 }
+/* Screen Dump
+what is 8*6?
+48
+Well done! Try again?
+
+	 */
